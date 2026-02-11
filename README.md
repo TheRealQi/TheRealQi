@@ -36,7 +36,7 @@ My project experience ranges from developing full-stack web applications using t
 <b>Frameworks & Libraries</b><br/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" alt="Django" />
 <br/><br/>
 <b>Databases</b><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
